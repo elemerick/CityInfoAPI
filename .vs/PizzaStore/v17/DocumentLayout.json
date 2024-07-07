@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\my-projects\\PizzaStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0709F055-4650-4C5E-9AF3-9489820D6C85}|PizzaStore.csproj|d:\\my-projects\\pizzastore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0709F055-4650-4C5E-9AF3-9489820D6C85}|PizzaStore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0709F055-4650-4C5E-9AF3-9489820D6C85}|PizzaStore.csproj|d:\\my-projects\\pizzastore\\migrations\\20240628173754_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0709F055-4650-4C5E-9AF3-9489820D6C85}|PizzaStore.csproj|solutionrelative:migrations\\20240628173754_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0709F055-4650-4C5E-9AF3-9489820D6C85}|PizzaStore.csproj|d:\\my-projects\\pizzastore\\models\\pizzacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0709F055-4650-4C5E-9AF3-9489820D6C85}|PizzaStore.csproj|solutionrelative:models\\pizzacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0709F055-4650-4C5E-9AF3-9489820D6C85}|PizzaStore.csproj|d:\\my-projects\\pizzastore\\pizzadb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0709F055-4650-4C5E-9AF3-9489820D6C85}|PizzaStore.csproj|solutionrelative:pizzadb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0709F055-4650-4C5E-9AF3-9489820D6C85}|PizzaStore.csproj|d:\\my-projects\\pizzastore\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0709F055-4650-4C5E-9AF3-9489820D6C85}|PizzaStore.csproj|solutionrelative:models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240628173754_InitialCreate.cs",
+              "DocumentMoniker": "D:\\my-projects\\PizzaStore\\Migrations\\20240628173754_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240628173754_InitialCreate.cs",
+              "ToolTip": "D:\\my-projects\\PizzaStore\\Migrations\\20240628173754_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240628173754_InitialCreate.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:38:59.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PizzaContext.cs",
+              "DocumentMoniker": "D:\\my-projects\\PizzaStore\\Models\\PizzaContext.cs",
+              "RelativeDocumentMoniker": "Models\\PizzaContext.cs",
+              "ToolTip": "D:\\my-projects\\PizzaStore\\Models\\PizzaContext.cs",
+              "RelativeToolTip": "Models\\PizzaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:28:08.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "D:\\my-projects\\PizzaStore\\Models\\Pizza.cs",
+              "RelativeDocumentMoniker": "Models\\Pizza.cs",
+              "ToolTip": "D:\\my-projects\\PizzaStore\\Models\\Pizza.cs",
+              "RelativeToolTip": "Models\\Pizza.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:26:26.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PizzaDB.cs",
+              "DocumentMoniker": "D:\\my-projects\\PizzaStore\\PizzaDB.cs",
+              "RelativeDocumentMoniker": "PizzaDB.cs",
+              "ToolTip": "D:\\my-projects\\PizzaStore\\PizzaDB.cs",
+              "RelativeToolTip": "PizzaDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:03:11.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\my-projects\\PizzaStore\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\my-projects\\PizzaStore\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T11:04:24.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
